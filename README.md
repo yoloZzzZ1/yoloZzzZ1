@@ -5,9 +5,6 @@
 
 
 <p align='center'>
-    <a href='https://www.linkedin.com/in/mikhail-nezhinsky' target='_blank'>
-        <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
-    </a>
     <img src='https://visitor-badge.glitch.me/badge?page_id=Nezhinskiy' width='115'>
 </p>
 
